@@ -35,7 +35,7 @@ const Footer = () => {
 
         <div className='gpt3__footer-links_div'>
           <h4>Get in Touch</h4>
-          <p>CrechterwoopK12 182 DK bbhb</p>
+          <p>CrechterwoopK12 182 DK </p>
           <p>085-35535-6353</p>
           <p>Contact</p>
           
