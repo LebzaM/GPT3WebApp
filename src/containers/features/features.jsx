@@ -5,21 +5,18 @@ import { Feature } from '../../components';
 //const data array
 const featuresData =[
   {
-  title: "Improving end distrusts instantly ",
-  text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+  title: "Step 1: Collect demonstration data and train a supervised policy",
+  text: "This data is used to fine-tune GPT 3 with supervised learning"
   },
   {
-    title: "Improving end distrusts instantly ",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+    title: "Step 2: Collect comparison data and train a reward model",
+    text: "This data is used to train the reward model"
     },
     {
-      title: "Improving end distrusts instantly ",
-      text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
+      title: "Step 3: Optimize a policy against the reward  model using the PPO reinforcement learning algorithm",
+      text: "The reward is used to update the policy using PPO"
       },
-      {
-        title: "Improving end distrusts instantly ",
-        text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded."
-        },
+      
 ]
 const Features = () => {
   return (

@@ -9,8 +9,8 @@ const Possibility = () => {
     </div>
     <div className='gpt3__possibility-content'>
       <h4>Request Early Access To Get Started</h4>
-      <h1 className='gradient__text'>The possibilities are beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <h1 className='gradient__text'>What does the future hold for GPT3?</h1>
+      <p>Chat GPT technology is not likely to replace people's jobs. While it is a powerful tool for automating conversations, it is still a long way from being able to replace the creative and interpersonal skills of human beings. GPT technology is best used to augment tasks, not replace them.</p>
       <h4>Request Early Access to Get Started</h4>
     </div>
     

@@ -7,7 +7,7 @@ const Cta = () => {
     <div className='gpt3__cta '>
     <div className='gpt3__cta-container'>
       <p>Request Early Access to Get Started</p>
-      <h3>Register today & start exploring the endless possiblities.</h3>
+      <h3>Register today & and be up to date with React and Gpt3 intergration for your projects .</h3>
 
     </div>
     <div className='gpt3__cta-btn'>

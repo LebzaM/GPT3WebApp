@@ -6,16 +6,16 @@ const WhatGPT3 = () => {
   return (
     <div className="gpt3__whatgpt3 section__padding" id="wgpt3">
       <div className="gpt3__whatgpt3-feature">
-        <Feature title="What is GPT3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."/>
+        <Feature title="What is GPT3?" text="GPT-3 Generative Pretrained Transformer 3 is a state-of-the-art language processing AI model developed by OpenAI. It is capable of generating human-like text and has a wide range of applications, including language translation, language modelling, and generating text for applications such as chatbots. It is one of the largest and most powerful language processing AI models to date, with 175 billion parameters."/>
       </div>
       <div className="gpt3__whatgpt3-heading">
         <h1 className="gradient__text"> The possibilities are beyond your imagination</h1>
         <p>Explore the Library</p>
       </div>
       <div className="gpt3__whatgpt3-container">
-        <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "/>
-        <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"/>
-        <Feature  title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"/>
+        <Feature title="Chatbots" text=""/>
+        <Feature title="Knowledgebase" text=""/>
+        <Feature  title="Education" text=""/>
       </div>
     </div>
   )
